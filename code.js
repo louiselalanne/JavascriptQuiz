@@ -14,6 +14,12 @@ onEvent("botaoSair1", "click", function( ) {
   setText("LoginCodigo", "");
   stopSound("assets/Avengers.mp3");
 });
+onEvent("botaoSair2", "click", function( ) {
+  setScreen("telainicial");
+  setText("LoginId", "");
+  setText("LoginCodigo", "");
+  stopSound("Avengers.mp3");
+});
 //Registro
 onEvent("STS", "click", function( ) {
   setScreen("TelaRegistro");
