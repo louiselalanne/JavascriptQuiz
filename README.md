@@ -7,4 +7,6 @@
 <h3 align="center">Esse projeto contém:</h3>
 <p align="center">Funcionalidade de manter uma pontuação acumulativa;</br>
 Questionários e capturar as respostas do usuário;</br>
-Funcionalidade de registro e login;</p></br>
+Funcionalidade de registro e login;</br>
+</br>
+Feito com ❤️ por Louise Lalanne 👋🏽 Entre em contato!</p>
