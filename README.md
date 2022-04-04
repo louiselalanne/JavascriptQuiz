@@ -10,3 +10,4 @@ Questionários e capturar as respostas do usuário;</br>
 Funcionalidade de registro e login;</br>
 </br>
 Feito com ❤️ por Louise Lalanne 👋🏽 Entre em contato!</p>
+Você também pode testar através do link: https://studio.code.org/projects/applab/vMsED7vrbZgJkzDYqH1trKYE4NE0Gl2vig3jhaPbmdA
