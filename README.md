@@ -1,6 +1,6 @@
 <h1 align="center">Javascript Quiz + Data</h1>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/100588945/161454633-a8ac122a-8f85-4275-9cb7-cb9327879b5c.gif"/>
+<img src="https://user-images.githubusercontent.com/100588945/161454633-a8ac122a-8f85-4275-9cb7-cb9327879b5c.gif" alt="Javascript Quiz + Data" width="200px">
 </br></br>
 🚧 Os dados estão armazenados em arquivos CSV na pasta dados. </p>
 </br>
